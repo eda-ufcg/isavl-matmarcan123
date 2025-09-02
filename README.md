@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Matteus Marinho Cantisani
+* Email (@ccc): matteus.marinho.cantisani@ccc.ufcg.edu.br
+* Matrícula: 124110576
 
 # Roteiro: isAVL
 
